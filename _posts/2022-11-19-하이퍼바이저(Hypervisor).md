@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: 하이퍼바이저(Hypervisor)
+tags: 하이퍼바이저(Hypervisor)
+---
 # Hypervisor<br>
 
 하이퍼바이저는 물리적 하드웨어에 설치된 소프트웨어 계층으로, 물리적 머신을 다수의 가상 머신으로<br>
