@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 하이퍼바이저(Hypervisor)
-tags: 하이퍼바이저(Hypervisor)
+tags: 하이퍼바이저
 ---
 # Hypervisor<br>
 
